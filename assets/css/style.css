@@ -1,0 +1,14 @@
+#game {
+    font-family: 'Germania One', cursive;
+    background-color: lightgrey;
+    text-align: center;
+    padding: 20px;
+}
+
+.h1 {
+    font-size: 55px;
+}
+
+.btn-lg {
+    margin-top: 30px;
+}
